@@ -1,0 +1,14 @@
+.button-wrapper{
+    background-color: rgb(84, 83, 85);
+    min-width: 60px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 25px;
+    margin: 4px;
+}
+.button-wrapper:hover{
+    cursor: pointer;
+}

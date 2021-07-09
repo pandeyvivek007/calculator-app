@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+}
+.input-wrapper{
+    color: violet;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 10px;
+    height: 80px;
+    
+}
+.text{
+    margin-top: 10px;
+}
